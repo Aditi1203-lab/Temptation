@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Temptation/static/css/main.d4f6127a.css",
+    "main.js": "/Temptation/static/js/main.55d6b94e.js",
+    "static/js/787.5dc0e2a0.chunk.js": "/Temptation/static/js/787.5dc0e2a0.chunk.js",
+    "index.html": "/Temptation/index.html",
+    "main.d4f6127a.css.map": "/Temptation/static/css/main.d4f6127a.css.map",
+    "main.55d6b94e.js.map": "/Temptation/static/js/main.55d6b94e.js.map",
+    "787.5dc0e2a0.chunk.js.map": "/Temptation/static/js/787.5dc0e2a0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4f6127a.css",
+    "static/js/main.55d6b94e.js"
+  ]
+}
