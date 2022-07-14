@@ -1,0 +1,38 @@
+.heading{
+    color:beige;
+    margin-left: 34px;
+    background-color:brown;
+}
+header{
+    display: flex;
+    background-color:brown;
+    position: sticky;
+}
+.number{
+    background-color:burlywood;
+    margin-left: 12px;
+}
+.btn{
+    height: 50px;
+    width:200px;
+    text-align: center;
+align-items: center;
+justify-content: space-between;
+align-items: center;
+margin-left: 1050px;
+margin-top: 20px;
+background-color:burlywood;
+border-radius: 16px;
+border-style: none;
+cursor: pointer;
+}
+.yc{
+    background-color:burlywood;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 12px;
+}
+.shop{
+    height:34px;
+    width: 34px;
+}

@@ -1,0 +1,28 @@
+h2{
+    color:bisque;
+}
+.dis{
+    display: flex;
+}
+.text{
+    
+    margin-left: 43px;
+    margin-top:43px;
+}
+.rest{
+    display: flex;
+}
+.food_pic{
+    height: 450px;
+    width:450px;
+    margin-left: 100px;
+    margin-top: 43px;
+    border-radius: 600px;
+    margin-right: 100px;
+}
+.img_1,.img_2,.img_3,.img_4{
+    margin-left: 43px;
+    height: 250px;
+    width: 250px;
+    border-radius: 250px;
+}
